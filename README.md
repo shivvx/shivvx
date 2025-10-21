@@ -74,7 +74,7 @@
 
 ---
 
-### 🟡 Contribution Animation (Pacman Edition)
+### 🟡 Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivvx/shivvx/main/pacman.svg" alt="Pacman animation" />
