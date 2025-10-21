@@ -19,7 +19,7 @@
 ---
 
 ## 🔥 What I Do
-- Craft **pixel-perfect UI/UX** and performant **frontend** (React, TypeScript)
+- Craft **pixel-perfect UI/UX** and performant **frontend**
 - Build **WordPress** products, **WooCommerce** flows & smart **automations**
 - Design systems in **Figma** + ship **brand-ready** assets (AE/PR/PS/AI)
 - Deploy and maintain **scalable infra** (Azure, Google Cloud, AWS) with CI/CD
