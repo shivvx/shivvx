@@ -28,9 +28,7 @@
 
 ## 🚀 Tech Stack (at a glance)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cpp,figma,ae,pr,wordpress,woocommerce,azure,behance" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cpp,figma,ae,pr,wordpress,azure" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
 </p>
 
