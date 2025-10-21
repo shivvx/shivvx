@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2800&pause=700&color=FF4D4D&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Owner+%7C+Developer+%7C+Designer+%40+Auxra.in;I+build+clean+UI%2FUX%2C+WordPress+tools%2C+and+automations" alt="Typing intro" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=700&color=FF4D4D&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Owner+%7C+Developer+%7C+Designer+%40+Auxra.in;I+build+clean+UI%2FUX%2C+WordPress+tools%2C+and+automations"
+    alt="Typing intro"
+/>
 </p>
 
 <h1 align="center">Designing experiences. Developing dreams. Delivering impact.</h1>
