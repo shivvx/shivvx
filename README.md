@@ -16,8 +16,10 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cpp,figma,ae,pr,wordpress,woocommerce,azure,behance,canva" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cpp,figma,ae,pr,wordpress,azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" style="margin-left:10px;" alt="Canva" />
 </p>
+
 
 ---
 
@@ -85,9 +87,5 @@
 > *“Designing experiences. Developing dreams. Delivering impact.”* ✨  
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivvx&label=Profile%20Views&color=red&style=for-the-badge" alt="profile views" />
-</p>
 
 
