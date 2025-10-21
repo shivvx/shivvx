@@ -1,4 +1,3 @@
-<!-- 🔴 Premium Profile README · Shivam Kumar (Auxra) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2800&pause=700&color=FF4D4D&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Owner+%7C+Developer+%7C+Designer+%40+Auxra.in;I+build+clean+UI%2FUX%2C+WordPress+tools%2C+and+automations" alt="Typing intro" />
 </p>
@@ -11,7 +10,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Available%20for%20Projects-FF4D4D?style=for-the-badge&logo=handshake&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=FF4D4D" /></a>
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=shivvx&style=for-the-badge&label=Profile%20Views&color=FF4D4D" /></a>
+  <img src="https://img.shields.io/badge/Profile%20Views-6322-FF4D4D?style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -20,7 +19,7 @@
 - Craft **pixel-perfect UI/UX** and performant **frontend** (React, TypeScript)
 - Build **WordPress** products, **WooCommerce** flows & smart **automations**
 - Design systems in **Figma** + ship **brand-ready** assets (AE/PR/PS/AI)
-- Deploy and maintain **scalable infra** (Azure) with CI/CD
+- Deploy and maintain **scalable infra** (Azure, Google Cloud, AWS) with CI/CD
 
 ---
 
@@ -55,9 +54,9 @@
 
 ---
 
-## 🟡 Contribution
+## 🟡 Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivvx/shivvx/output/pacman.svg?raw=true&v=2" alt="Pacman animation" />
+  <img src="https://raw.githubusercontent.com/shivvx/shivvx/output/pacman.svg?raw=true" alt="Pacman animation" />
 </p>
 
 ---
@@ -95,12 +94,12 @@ From brand to build to automation, I handle **A → Z** with a focus on **clarit
 
 ## 📩 Hire / Collaborate
 - 🔗 Website: **[auxra.in](https://auxra.in)**
-- 💌 Email: **youremail@gmail.com**
-- 💼 Open to: freelance, product collabs, agency partnerships
+- 💌 Email: **shivprv@icloud.com**
+- 💼 Open to: freelance, product collabs, and agency partnerships
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  <sub>© Shivam Kumar · auxra.in · Built with love and clean commits.</sub>
+  <sub> 2025 © Shivam Kumar · auxra.in · Built with love and clean commits.</sub>
 </p>
