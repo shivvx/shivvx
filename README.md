@@ -46,8 +46,6 @@
       <img height="165" alt="Streak"
         src="https://streak-stats.demolab.com?user=shivvx&hide_border=true&border_radius=18&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=7F848E&sideLabels=7F848E" />
     </td>
-    <td>
-    </td>
   </tr>
 </table>
 
