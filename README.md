@@ -47,8 +47,6 @@
         src="https://streak-stats.demolab.com?user=shivvx&hide_border=true&border_radius=18&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=7F848E&sideLabels=7F848E" />
     </td>
     <td>
-      <img height="165" alt="Trophies"
-        src="https://github-profile-trophy.vercel.app/?username=shivvx&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
     </td>
   </tr>
 </table>
