@@ -1,13 +1,13 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=700&color=FF4D4D&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Owner+%7C+Developer+%7C+Designer+%40+Auxra.in;I+build+clean+UI%2FUX%2C+WordPress+tools%2C+and+automations"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=700&color=FF4D4D&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Owner+%7C+Developer+%7C+Designer+%40+Shivvx.in;I+build+clean+UI%2FUX%2C+WordPress+tools%2C+and+automations"
     alt="Typing intro"
 />
 </p>
 
 <h1 align="center">Designing experiences. Developing dreams. Delivering impact.</h1>
 <h3 align="center">
-  <a href="https://auxra.in" target="_blank">auxra.in</a> · Owner & Full-Stack Developer · Creative Designer
+  <a href="https://example.com/" target="_blank"Shivvx</a> · Owner & Full-Stack Developer · Creative Designer
 </h3>
 
 <p align="center">
@@ -63,7 +63,7 @@
   `WP` `Hooks` `REST` `Webhooks`
 - 💄 **Salon & Makeup Booking** — WhatsApp + Email workflow, approval flows, no-login client UX.  
   `Next.js` `Node` `SMTP` `WA API`
-- 🧱 **Auxra Templates** — Lightweight, modern business sites with automation-first design.  
+- 🧱 **Shivvx Templates** — Lightweight, modern business sites with automation-first design.  
   `Figma` `Tailwind` `WP`
 
 > Want a demo or code sample? Ping me. I ship fast, clean, and maintainable.
@@ -84,13 +84,13 @@
 ---
 
 ## 🧠 Mini Bio
-I’m **Shivam Kumar**, founder of **Auxra** — I design and ship **fast, beautiful, automated** web experiences.  
+I’m **Shivam Kumar**, founder of **Shivvx** — I design and ship **fast, beautiful, automated** web experiences.  
 From brand to build to automation, I handle **A → Z** with a focus on **clarity, performance, and results**.
 
 ---
 
 ## 📩 Hire / Collaborate
-- 🔗 Website: **[auxra.in](https://auxra.in)**
+- 🔗 Website: **[Shivvx.in](https://Shivvx.in)**
 - 💌 Email: **shivprv@icloud.com**
 - 💼 Open to: freelance, product collabs, and agency partnerships
 
@@ -98,5 +98,5 @@ From brand to build to automation, I handle **A → Z** with a focus on **clarit
 
 <!-- Footer -->
 <p align="center">
-  <sub> 2025 © Shivam Kumar · auxra.in · Built with love and clean commits.</sub>
+  <sub> 2025 © Shivam Kumar · Shivvx.in · Built with love and clean commits.</sub>
 </p>
