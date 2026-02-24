@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=700&color=FF4D4D&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Owner+%7C+Developer+%7C+Designer+%40+Shivvx.in;I+build+clean+UI%2FUX%2C+WordPress+tools%2C+and+automations"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=700&color=FF4D4D&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shivam+Kumar+%F0%9F%91%8B;Owner+%7C+Developer+%7C+Designer+%40+shivvx.me;I+build+clean+UI%2FUX%2C+WordPress+tools%2C+and+automations"
     alt="Typing intro"
 />
 </p>
@@ -90,7 +90,7 @@ From brand to build to automation, I handle **A → Z** with a focus on **clarit
 ---
 
 ## 📩 Hire / Collaborate
-- 🔗 Website: **[Shivvx.in](https://Shivvx.me)**
+- 🔗 Website: **[Shivvx.me](https://Shivvx.me)**
 - 💌 Email: **shivprv@icloud.com**
 - 💼 Open to: freelance, product collabs, and agency partnerships
 
@@ -98,5 +98,5 @@ From brand to build to automation, I handle **A → Z** with a focus on **clarit
 
 <!-- Footer -->
 <p align="center">
-  <sub> 2026 © Shivam Kumar · Shivvx.in · Built with love and clean commits.</sub>
+  <sub> 2026 © Shivam Kumar · shivvx.me · Built with love and clean commits.</sub>
 </p>
