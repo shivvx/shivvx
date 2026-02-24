@@ -34,23 +34,6 @@
 
 ---
 
-## 📊 Clean Red Stats (rounded · one row)
-
-<table>
-  <tr>
-    <td>
-      <img height="165" alt="Stats"
-        src="https://github-readme-stats.vercel.app/api?username=shivvx&show_icons=true&hide_border=true&border_radius=18&bg_color=0d1117&title_color=ff4d4d&text_color=ffffff&icon_color=ff4d4d" />
-    </td>
-    <td>
-      <img height="165" alt="Streak"
-        src="https://streak-stats.demolab.com?user=shivvx&hide_border=true&border_radius=18&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=7F848E&sideLabels=7F848E" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🟡 Contributions
 <p align="center">
   <img src="https://github.com/shivvx/shivvx/blob/main/pacman.svg?raw=true" alt="Pacman animation" />
