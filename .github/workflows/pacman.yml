@@ -1,0 +1,42 @@
+name: Update pacman.svg
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate pacman contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Move generated file into repo root as pacman.svg
+        run: |
+          if [ -f dist/pacman-contribution-graph.svg ]; then
+            mv dist/pacman-contribution-graph.svg pacman.svg
+          elif [ -f dist/pacman.svg ]; then
+            mv dist/pacman.svg pacman.svg
+          else
+            echo "No expected SVG found in dist/"
+            ls -la dist || true
+            exit 1
+          fi
+
+      - name: Commit and push pacman.svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pacman.svg
+          git commit -m "chore: update pacman.svg" || exit 0
+          git push
