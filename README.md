@@ -7,7 +7,7 @@
 
 <h1 align="center">Designing experiences. Developing dreams. Delivering impact.</h1>
 <h3 align="center">
-  <a href="https://example.com/" target="_blank"Shivvx</a> · Owner & Full-Stack Developer · Creative Designer
+  <a href="https://example.com/" target="_blank"Shivvx</a> · Owner & Ai/Ml | iOS Developer · Creative Designer
 </h3>
 
 <p align="center">
@@ -90,7 +90,7 @@ From brand to build to automation, I handle **A → Z** with a focus on **clarit
 ---
 
 ## 📩 Hire / Collaborate
-- 🔗 Website: **[Shivvx.in](https://Shivvx.in)**
+- 🔗 Website: **[Shivvx.in](https://Shivvx.me)**
 - 💌 Email: **shivprv@icloud.com**
 - 💼 Open to: freelance, product collabs, and agency partnerships
 
@@ -98,5 +98,5 @@ From brand to build to automation, I handle **A → Z** with a focus on **clarit
 
 <!-- Footer -->
 <p align="center">
-  <sub> 2025 © Shivam Kumar · Shivvx.in · Built with love and clean commits.</sub>
+  <sub> 2026 © Shivam Kumar · Shivvx.in · Built with love and clean commits.</sub>
 </p>
