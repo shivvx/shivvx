@@ -34,13 +34,6 @@
 
 ---
 
-## 🟡 Contributions
-<p align="center">
-  <img src="assets/shivvcontri.png" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 🧩 Signature Projects
 - 🌀 **Discord WP Logger** — Real-time WordPress → Discord logging.  
   `WP` `Hooks` `REST` `Webhooks`
@@ -62,6 +55,14 @@
   <a href="#"><img src="https://img.shields.io/badge/Telegram-FF4D4D?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Facebook-FF4D4D?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PayPal-FF4D4D?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
+
+---
+
+## 🟡 Contributions
+
+<p align="center">
+  <img src="shivvcontri.png" alt="Contribution Graph" width="800"/>
 </p>
 
 ---
