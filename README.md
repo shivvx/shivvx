@@ -36,7 +36,7 @@
 
 ## 🟡 Contributions
 <p align="center">
-  <img src="https://github.com/shivvx/shivvx/blob/main/pacman.svg?raw=true" alt="Pacman animation" />
+  <img src="assets/shivvcontri.png" alt="Contribution Graph"/>
 </p>
 
 ---
