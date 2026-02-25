@@ -62,7 +62,7 @@
 ## 🟡 Contributions
 
 <p align="center">
-  <img src="shivvcontri.png" alt="Contribution Graph" width="800"/>
+  <img src="shivvxcontri.png" alt="Contribution Graph" width="800"/>
 </p>
 
 ---
