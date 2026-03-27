@@ -13,7 +13,7 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Available%20for%20Projects-FF4D4D?style=for-the-badge&logo=handshake&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=FF4D4D" /></a>
-  <img src="https://img.shields.io/badge/Profile%20Views-6322-FF4D4D?style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-6560-FF4D4D?style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
