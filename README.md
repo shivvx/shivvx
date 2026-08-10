@@ -29,7 +29,7 @@
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
+## 🏆 GitHub Achievements & 3D Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivvx&theme=tokyonight&no-frame=true&no-background=false&margin-w=15&column=6" alt="Shivam's GitHub Trophies" width="100%" />
@@ -37,43 +37,64 @@
 
 ---
 
-## ⚡ About Me & Engineering Blueprint
+## ⚡ Developer Blueprint & Environment
 
 ```swift
-struct Developer {
-    let name = "Shivam Kumar"
-    let handle = "@shivvx"
-    let title = "iOS Developer | AI/ML Engineer | UI/UX Designer"
-    let company = "Wiroxa Studio"
+// 🔴 🟡 🟢 shivvx@wiroxa-studio: ~ (swift 6.0)
+
+struct DeveloperProfile {
+    let name     = "Shivam Kumar"
+    let handle   = "@shivvx"
+    let title    = "iOS Developer | AI/ML Engineer | UI/UX Designer"
+    let studio   = "Wiroxa Studio 🚀"
     let location = "Jabalpur, Madhya Pradesh, India 🇮🇳"
+    let website  = "https://shivvx.in"
     
-    var coreCompetencies: [String] = [
-        "Native iOS Application Development (Swift 6, SwiftUI, Xcode)",
-        "Artificial Intelligence & Multi-Agent Systems (PyTorch, LLMs, Computer Vision)",
-        "Product UI/UX Design & System Token Frameworks (Figma, Apple HIG)",
-        "Fullstack Web & Developer Tooling (TypeScript, React, Node.js, C++)"
+    var coreSuperpowers: [String] = [
+        "Native Swift & SwiftUI Architecture (120Hz liquid micro-interactions)",
+        "Artificial Intelligence & Multi-Agent Systems (PyTorch, Computer Vision, LLMs)",
+        "Framer-Grade UI/UX Design Systems & Token Frameworks (Figma, Apple HIG)",
+        "Developer Tooling & Custom VS Code Extensions (TypeScript, C++)"
     ]
 }
 ```
 
-- 🔭 **Currently Building**: **[nmll-concept](https://github.com/shivvx/nmll-concept)** — Desktop-grade AI-native ML/DL workspace with visual pipeline designers and multi-agent AI assistants.
-- 📱 **Mobile Craftsmanship**: Architecting modular, low-latency native **Swift & SwiftUI** iOS applications with smooth 120Hz micro-interactions.
-- 💼 **Leadership @ Wiroxa Studio**: Designing and shipping end-to-end digital platforms, SaaS solutions, and developer extensions.
-- 🧠 **AI/ML Focus**: Researching autonomous multi-agent systems, deep learning model fine-tuning, and intelligent code intelligence tools.
-- 🎨 **Design Ethos**: High contrast, typography-first visual hierarchy, minimalist layout structure, and zero-clutter user experience.
+- 🔭 **Currently Building**: **[nmll-concept](https://github.com/shivvx/nmll-concept)** — AI-native desktop ML/DL workspace with visual node designers and multi-agent AI assistants.
+- 📱 **iOS Craftsmanship**: Architecting fluid native **SwiftUI** apps with modular state management and zero-lag performance.
+- 💼 **Founder @ Wiroxa Studio**: Engineering full-stack digital products, custom developer extensions, and enterprise design systems.
+- 🧠 **AI/ML Focus**: Researching autonomous multi-agent networks, model fine-tuning, and intelligent code analysis tools.
+- 🎨 **Design Ethos**: Dark mode elegance, typography hierarchy, functional minimalism, and high-contrast glassmorphism aesthetics.
 
 ---
 
-## 🚀 Featured Projects & Innovations
+## 📌 Featured Innovations & Repositories
 
-| Project | Description | Stack / Category | Repo Link |
-| :--- | :--- | :--- | :---: |
-| 🧠 **nmll-concept** | **AI-Native ML/DL Desktop Workspace** — Browser IDE, Jupyter compiler, visual pipeline node designer, training metrics & multi-agent AI assistants. | `TypeScript` `React` `PyTorch` `AI/ML` | [View Repo](https://github.com/shivvx/nmll-concept) |
-| ⚡ **Codeforces Pro** | **VS Code Extension for Competitive Programmers** — Automated test-case fetcher, local compiler runner, and dark aesthetic IDE interface. | `VS Code Ext` `TypeScript` `C++` | [View Repo](https://github.com/shivvx/codeforces) |
-| 🧹 **Unused Code Killer** | **Dead Code & Stale Asset Analyzer** — Deep static analysis tool for TS/JS/React codebases with confidence scoring & safe deletion recommendations. | `VS Code Ext` `React` `Static Analysis` | [View Repo](https://github.com/shivvx/unused-code-killer) |
-| 🌾 **FasalMitra** | **Har Fasal Ka Digital Saathi** — AI-powered digital agriculture companion & crop disease diagnosis assistant for Indian farmers. | `SwiftUI` `iOS` `AI/ML` | [View Repo](https://github.com/shivvx/FasalMitra) |
-| 🤖 **GitCommitter** | **API-Driven Commit Automation** — Seamless contribution history generator using pure GitHub REST API requests without local clones. | `Node.js` `GitHub API` `Automation` | [View Repo](https://github.com/shivvx/contributiontool) |
-| 💬 **Discord WP Logger** | **WordPress Webhook & Event Sync** — Real-time event logging engine bridging WordPress REST hooks directly to Discord channels. | `WordPress` `PHP` `REST API` | [View Repo](https://github.com/shivvx) |
+<p align="center">
+  <a href="https://github.com/shivvx/nmll-concept">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=nmll-concept&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="nmll-concept" />
+  </a>
+  <a href="https://github.com/shivvx/codeforces">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=codeforces&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="codeforces" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shivvx/unused-code-killer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=unused-code-killer&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="unused-code-killer" />
+  </a>
+  <a href="https://github.com/shivvx/FasalMitra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=FasalMitra&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="FasalMitra" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shivvx/contributiontool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=contributiontool&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="contributiontool" />
+  </a>
+  <a href="https://github.com/shivvx/open-vsx.org">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=open-vsx.org&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="open-vsx.org" />
+  </a>
+</p>
 
 ---
 
@@ -109,18 +130,26 @@ struct Developer {
 
 ---
 
-## 📊 GitHub Analytics & Activity Dashboard
+## 📈 Activity & Commit Analytics Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivvx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shivam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivvx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivvx&theme=tokyonight&hide_border=true&area=true&line=F36A21&point=ffffff" alt="Shivam's GitHub Activity Graph" width="100%" />
+</p>
+
+---
+
+## 📊 GitHub Analytics & Streak Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivvx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F36A21&icon_color=F36A21" alt="Shivam's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivvx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=F36A21" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivvx&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivvx&theme=tokyonight&hide_border=true&sideLabels=F36A21&ring=F36A21&fire=F36A21" alt="GitHub Streak Stats" width="97%" />
 </p>
 
-### 👾 Pacman & Activity Contribution Animations
+### 👾 Pacman & Snake Contribution Animations
 <p align="center">
   <img src="pacman.svg" alt="Pacman Contribution Graph" width="100%" />
 </p>
