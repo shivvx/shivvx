@@ -171,13 +171,6 @@ struct DeveloperProfile {
   </a>
 </p>
 
----
-
-## 📈 Activity & Commit Analytics Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivvx&theme=tokyonight&hide_border=true&area=true&line=F36A21&point=ffffff" alt="Shivam's GitHub Activity Graph" width="100%" />
-</p>
 
 ---
 
