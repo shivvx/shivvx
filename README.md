@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,F36A21&height=230&section=header&text=SHIVAM%20KUMAR%20(%40shivvx)&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=iOS%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20UI%2FUX%20Craftsman%20%E2%80%A2%20Founder%20%40%20Wiroxa%20Studio&descSize=17&descAlign=62&descAlignColor=F36A21" width="100%" alt="Shivam Kumar Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,F36A21&height=220&section=header&text=SHIVAM%20KUMAR%20(%40shivvx)&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20UI%2FUX%20Craftsman%20%E2%80%A2%20Founder%20%40%20Wiroxa%20Studio&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="Shivam Kumar Animated Header" />
 </p>
 
 <p align="center">
@@ -29,10 +29,13 @@
 
 ---
 
-## 🏆 GitHub Achievements & 3D Trophies
+## 🏆 Core Achievements & Recognition
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivvx&theme=tokyonight&no-frame=true&no-background=false&margin-w=15&column=6" alt="Shivam's GitHub Trophies" width="100%" />
+  <img src="https://img.shields.io/badge/🏆_Achievement-iOS_Native_Architect-F36A21?style=for-the-badge&logo=swift&logoColor=white" alt="iOS Architect Badge" />
+  <img src="https://img.shields.io/badge/🥇_Specialist-AI_Multi--Agent_Systems-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI Specialist Badge" />
+  <img src="https://img.shields.io/badge/⚡_Founder-Wiroxa_Studio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Wiroxa Founder Badge" />
+  <img src="https://img.shields.io/badge/⭐_Craftsman-UI%2FUX_Design_Tokens-D90368?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Craftsman Badge" />
 </p>
 
 ---
@@ -69,32 +72,72 @@ struct DeveloperProfile {
 
 ## 📌 Featured Innovations & Repositories
 
-<p align="center">
-  <a href="https://github.com/shivvx/nmll-concept">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=nmll-concept&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="nmll-concept" />
-  </a>
-  <a href="https://github.com/shivvx/codeforces">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=codeforces&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="codeforces" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shivvx/unused-code-killer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=unused-code-killer&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="unused-code-killer" />
-  </a>
-  <a href="https://github.com/shivvx/FasalMitra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=FasalMitra&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="FasalMitra" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shivvx/contributiontool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=contributiontool&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="contributiontool" />
-  </a>
-  <a href="https://github.com/shivvx/open-vsx.org">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=open-vsx.org&theme=tokyonight&hide_border=true&title_color=F36A21&icon_color=F36A21" width="48%" alt="open-vsx.org" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 <a href="https://github.com/shivvx/nmll-concept">nmll-concept</a></h3>
+      <p align="center"><b>AI-Native ML/DL Desktop Workspace</b><br/>
+      Browser IDE, Jupyter compiler, visual pipeline node designer, training metrics & multi-agent AI assistants.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/AI%2FML-F36A21?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/shivvx/codeforces">Codeforces Pro</a></h3>
+      <p align="center"><b>VS Code Extension for Competitive Programming</b><br/>
+      Automated test-case fetcher, local compiler runner, submission hub, and premium aesthetic IDE interface.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/VS_Code_Ext-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="CPP" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧹 <a href="https://github.com/shivvx/unused-code-killer">Unused Code Killer</a></h3>
+      <p align="center"><b>Dead Code & Stale Asset Analyzer</b><br/>
+      Deep static analysis tool for TS/JS/React codebases with confidence scoring & safe deletion recommendations.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/VS_Code_Ext-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+        <img src="https://img.shields.io/badge/Static_Analysis-059669?style=flat-square&logo=eslint&logoColor=white" alt="Static Analysis" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 <a href="https://github.com/shivvx/FasalMitra">FasalMitra</a></h3>
+      <p align="center"><b>Har Fasal Ka Digital Saathi</b><br/>
+      AI-powered digital agriculture companion & crop disease diagnosis assistant for Indian farmers.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+        <img src="https://img.shields.io/badge/iOS_Native-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+        <img src="https://img.shields.io/badge/AgriTech-10B981?style=flat-square" alt="AgriTech" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 <a href="https://github.com/shivvx/contributiontool">GitCommitter</a></h3>
+      <p align="center"><b>API-Driven Commit Automation Engine</b><br/>
+      Seamless contribution history generator using pure GitHub REST API requests without local clones.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/Automation-F36A21?style=flat-square" alt="Automation" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔌 <a href="https://github.com/shivvx/open-vsx.org">Open VSX Registry</a></h3>
+      <p align="center"><b>Open-VSX Extension Marketplace Integration</b><br/>
+      Source and publishing pipeline infrastructure for open-vsx.org extension ecosystem.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Open_VSX-E24329?style=flat-square&logo=eclipseide&logoColor=white" alt="Open-VSX" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -141,15 +184,10 @@ struct DeveloperProfile {
 ## 📊 GitHub Analytics & Streak Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivvx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F36A21&icon_color=F36A21" alt="Shivam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivvx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=F36A21" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivvx&theme=tokyonight&hide_border=true&sideLabels=F36A21&ring=F36A21&fire=F36A21" alt="GitHub Streak Stats" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivvx&theme=tokyonight&hide_border=true&sideLabels=F36A21&ring=F36A21&fire=F36A21" alt="GitHub Streak Stats" width="97%" />
-</p>
-
-### 👾 Pacman & Snake Contribution Animations
+### 👾 Pacman & Activity Contribution Animations
 <p align="center">
   <img src="pacman.svg" alt="Pacman Contribution Graph" width="100%" />
 </p>
