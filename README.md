@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Shivam Kumar - iOS Developer & AI/ML Engineer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,F36A21&height=230&section=header&text=SHIVAM%20KUMAR%20(%40shivvx)&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=iOS%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20UI%2FUX%20Craftsman%20%E2%80%A2%20Founder%20%40%20Wiroxa%20Studio&descSize=17&descAlign=62&descAlignColor=F36A21" width="100%" alt="Shivam Kumar Animated Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=F36A21&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Shivam+Kumar+(%40shivvx)+%F0%9F%91%8B;iOS+Developer+%E2%80%A2+Native+Swift+%26+SwiftUI+%F0%9F%93%B1;AI%2FML+Engineer+%E2%80%A2+Multi-Agent+Systems+%F0%9F%A5%9D;UI%2FUX+Designer+%E2%80%A2+Product+Systems+%F0%9F%8E%A8;Founder+%26+Lead+%40+Wiroxa+Studio+%F0%9F%9A%80" alt="Typing Intro Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=F36A21&center=true&vCenter=true&width=900&lines=System.init(%22%40shivvx%22)%20%E2%9A%A1;Crafting+Native+iOS+SwiftUI+Apps+%F0%9F%93%B1;Building+Autonomous+AI+Systems+%26+Agents+%F0%9F%A5%9D;Designing+High-Impact+Product+Systems+%F0%9F%8E%A8;Founder+%26+Engineering+Lead+%40+Wiroxa+Studio+%F0%9F%9A%80" width="100%" alt="Typing Intro Header" />
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@ struct Developer {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivvx&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="97%" />
 </p>
 
-### 👾 Pacman Contribution Graph
+### 👾 Pacman & Activity Contribution Animations
 <p align="center">
   <img src="pacman.svg" alt="Pacman Contribution Graph" width="100%" />
 </p>
@@ -154,6 +154,10 @@ struct Developer {
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F36A21,111111&height=100&section=footer" width="100%" alt="Footer Wave" />
 </p>
 
 <p align="center">
