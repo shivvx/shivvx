@@ -45,28 +45,28 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="510">           ~ @shivvx • Wiroxa ~         </tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">shivvx@wiroxa-studio</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS Sequoia, iOS 18, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> </tspan><tspan class="value" id="age_data">21 years, 8 months, 26 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Wiroxa Studio (Founder &amp; Lead)</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">iOS Native &amp; AI Systems Architect</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Xcode 16, VS Code, Cursor</tspan>
+<tspan x="390" y="30">shivvx@wiroxa-studio</tspan> -———————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">macOS Sequoia, iOS 18, Linux</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................... </tspan><tspan class="value" id="age_data">21 years, 8 months, 26 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Wiroxa Studio (Founder &amp; Lead)</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">iOS Native &amp; AI Systems Architect</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Xcode 16, VS Code, Cursor</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Swift, Python, C++, TypeScript, Rust</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">SwiftUI, PyTorch, React, Node.js</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Hindi</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Swift, Python, C++, TypeScript, Rust</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">SwiftUI, PyTorch, React, Node.js</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">English, Hindi</tspan>
 <tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Agentic AI, Micro-Interactions</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Design</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Design Systems, Typography</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Agentic AI, Micro-Interactions</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Design</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Design Systems, Typography</tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">https://shivvx.in</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">shivprv@icloud.com</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">shivvx</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">X/Twitter</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">@shivvx</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">shivvx</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">https://shivvx.in</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">shivprv@icloud.com</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">shivvx</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">X/Twitter</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">@shivvx</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">shivvx</tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">17</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">22</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............ </tspan><tspan class="value" id="star_data">12</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">386</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ........ </tspan><tspan class="value" id="follower_data">20</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> ... </tspan><tspan class="value" id="loc_data">92,480</tspan> ( <tspan class="addColor" id="loc_add">104,220</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">11,740</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ... </tspan><tspan class="value" id="repo_data">17</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">22</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> .......... </tspan><tspan class="value" id="star_data">12</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">386</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ...... </tspan><tspan class="value" id="follower_data">20</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> .. </tspan><tspan class="value" id="loc_data">92,480</tspan> ( <tspan class="addColor" id="loc_add">104,220</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor" id="loc_del">11,740</tspan><tspan class="delColor">-- )</tspan>
 </text>
 </svg>
