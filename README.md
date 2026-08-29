@@ -13,26 +13,26 @@
 
 <p align="center">
   <a href="https://shivvx.in" target="_blank">
-    <img src="https://img.shields.io/badge/Website-shivvx.in-F36A21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-shivvx.in-F36A21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://wiroxa.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Studio-Wiroxa_Studio-111111?style=for-the-badge&logo=vercel&logoColor=F36A21" alt="Wiroxa Studio" />
+    <img src="https://img.shields.io/badge/🚀_STUDIO-Wiroxa_Studio-0F172A?style=for-the-badge&logo=vercel&logoColor=F36A21" alt="Wiroxa Studio" />
   </a>
   <a href="mailto:support@shivvx.in">
-    <img src="https://img.shields.io/badge/Email-support%40shivvx.in-EA4335?style=for-the-badge&logo=icloud&logoColor=white" alt="Personal Support" />
+    <img src="https://img.shields.io/badge/✉️_EMAIL-support%40shivvx.in-E11D48?style=for-the-badge&logo=icloud&logoColor=white" alt="Personal Support" />
   </a>
   <a href="mailto:support@wiroxa.dev">
-    <img src="https://img.shields.io/badge/Org_Support-support%40wiroxa.dev-7C3AED?style=for-the-badge&logo=mailgun&logoColor=white" alt="Org Support" />
+    <img src="https://img.shields.io/badge/🏢_ORG_DESK-support%40wiroxa.dev-7C3AED?style=for-the-badge&logo=mailgun&logoColor=white" alt="Org Support" />
   </a>
   <a href="https://github.com/shivvx">
-    <img src="https://komarev.com/ghpvc/?username=shivvx&label=PROFILE+VIEWS&color=F36A21&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=shivvx&label=PROFILE+VIEWS&color=F36A21&style=for-the-badge&base=4503" alt="Profile Views" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Jabalpur,_India-1F2937?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/⚡_Status-Building_Next--Gen_iOS_%26_AI_Tools-059669?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/🤝_Open_To-Freelance_%26_Product_Collabs-7C3AED?style=flat-square" alt="Collaborations" />
+  <img src="https://img.shields.io/badge/📍_LOCATION-Jabalpur,_India-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/⚡_STATUS-Building_Next--Gen_iOS_%26_AI-059669?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/🤝_OPEN_FOR-Freelance_%26_Product_Collabs-4F46E5?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaborations" />
 </p>
 
 ---
@@ -40,124 +40,103 @@
 ## 🏆 Core Achievements & Recognition
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_Architecture-iOS_Native_Architect-F36A21?style=for-the-badge&logo=swift&logoColor=white" alt="iOS Architect Badge" />
-  <img src="https://img.shields.io/badge/🥇_Intelligence-AI_Multi--Agent_Systems-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI Specialist Badge" />
-  <img src="https://img.shields.io/badge/⚡_Leadership-Founder_%40_Wiroxa_Studio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Wiroxa Founder Badge" />
-  <img src="https://img.shields.io/badge/⭐_Aesthetics-UI%2FUX_Design_Tokens-D90368?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Craftsman Badge" />
+  <img src="https://img.shields.io/badge/🏆_ARCHITECTURE-iOS_Native_Architect-F36A21?style=for-the-badge&logo=swift&logoColor=white" alt="iOS Architect Badge" />
+  <img src="https://img.shields.io/badge/🥇_INTELLIGENCE-AI_Multi--Agent_Systems-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI Specialist Badge" />
+  <img src="https://img.shields.io/badge/⚡_LEADERSHIP-Founder_%40_Wiroxa_Studio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Wiroxa Founder Badge" />
+  <img src="https://img.shields.io/badge/⭐_AESTHETICS-UI%2FUX_Design_Tokens-D90368?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Craftsman Badge" />
 </p>
 
 ---
 
 ## 🚀 Engineering Focus & Core Pillars
 
-- 📱 **Native iOS Craftsmanship**: Architecting zero-latency **SwiftUI** apps with modular state management, custom haptics, and fluid 120Hz micro-interactions.
-- 🧠 **Autonomous AI Systems**: Researching multi-agent architectures, model fine-tuning, automated code analysis, and local inference pipelines.
-- 💼 **Founder @ Wiroxa Studio**: Leading product engineering, developer productivity tools, and full-stack enterprise systems.
-- 🎨 **Framer-Grade UI/UX**: Dark mode minimalism, strict typographical hierarchy, and Apple Human Interface Guideline compliance.
-- 🛠️ **Developer Tooling**: Building high-performance VS Code extensions, automated CLI engines, and compiler integrations.
-
----
-
-## 📌 Featured Innovations & Repositories
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 <a href="https://github.com/shivvx/nmll-concept">nmll-concept</a></h3>
-      <p align="center"><b>AI-Native ML/DL Desktop Workspace</b><br/>
-      Browser IDE, Jupyter compiler, visual pipeline node designer, training metrics & multi-agent AI assistants.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/AI%2FML-F36A21?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-      </p>
+      <h3>📱 Native iOS & Apple Craftsmanship</h3>
+      <p>Architecting fluid <b>SwiftUI</b> applications engineered for 120Hz ProMotion displays with custom state containers, zero-latency animations, and haptic feedback.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/shivvx/codeforces">Codeforces Pro</a></h3>
-      <p align="center"><b>VS Code Extension for Competitive Programming</b><br/>
-      Automated test-case fetcher, local compiler runner, submission hub, and premium aesthetic IDE interface.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/VS_Code_Ext-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="CPP" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-      </p>
+      <h3>🧠 Autonomous AI & Multi-Agent Systems</h3>
+      <p>Developing agentic workflows, model fine-tuning frameworks, PyTorch inference pipelines, and intelligent developer automation tools.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧹 <a href="https://github.com/shivvx/unused-code-killer">Unused Code Killer</a></h3>
-      <p align="center"><b>Dead Code & Stale Asset Analyzer</b><br/>
-      Deep static analysis tool for TS/JS/React codebases with confidence scoring & safe deletion recommendations.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/VS_Code_Ext-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode" />
-        <img src="https://img.shields.io/badge/Static_Analysis-059669?style=flat-square&logo=eslint&logoColor=white" alt="Static Analysis" />
-      </p>
+      <h3>💼 Founder & Architect @ Wiroxa Studio</h3>
+      <p>Directing digital product engineering, high-throughput cloud backends, and bespoke developer tools from conception to global scale.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌾 <a href="https://github.com/shivvx/FasalMitra">FasalMitra</a></h3>
-      <p align="center"><b>Har Fasal Ka Digital Saathi</b><br/>
-      AI-powered digital agriculture companion & crop disease diagnosis assistant for Indian farmers.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-        <img src="https://img.shields.io/badge/iOS_Native-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
-        <img src="https://img.shields.io/badge/AgriTech-10B981?style=flat-square" alt="AgriTech" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/shivvx/autobump">AutoBump</a></h3>
-      <p align="center"><b>Intelligent Version & Changelog Automator</b><br/>
-      Automated semantic version bumper, git tag manager, and changelog generator for modern repos.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Automation-F36A21?style=flat-square" alt="Automation" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔌 <a href="https://github.com/shivvx/open-vsx.org">Open VSX Registry</a></h3>
-      <p align="center"><b>Open-VSX Extension Marketplace Integration</b><br/>
-      Source and publishing pipeline infrastructure for open-vsx.org extension ecosystem.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Open_VSX-E24329?style=flat-square&logo=eclipseide&logoColor=white" alt="Open-VSX" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-      </p>
+      <h3>🎨 Framer-Grade Design Systems</h3>
+      <p>Precision UI/UX craft governed by strict typographic rhythm, functional minimalism, dark mode ergonomics, and Apple HIG guidelines.</p>
     </td>
   </tr>
 </table>
 
 ---
 
+## 📌 Featured Innovations & Repositories
+
+<p align="center">
+  <a href="https://github.com/shivvx/nmll-concept">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=nmll-concept&theme=tokyonight&border_color=F36A21&title_color=F36A21&icon_color=F36A21&show_owner=true" alt="nmll-concept" />
+  </a>
+  <a href="https://github.com/shivvx/codeforces">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=codeforces&theme=tokyonight&border_color=F36A21&title_color=F36A21&icon_color=F36A21&show_owner=true" alt="codeforces" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shivvx/unused-code-killer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=unused-code-killer&theme=tokyonight&border_color=F36A21&title_color=F36A21&icon_color=F36A21&show_owner=true" alt="unused-code-killer" />
+  </a>
+  <a href="https://github.com/shivvx/FasalMitra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=FasalMitra&theme=tokyonight&border_color=F36A21&title_color=F36A21&icon_color=F36A21&show_owner=true" alt="FasalMitra" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shivvx/autobump">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=autobump&theme=tokyonight&border_color=F36A21&title_color=F36A21&icon_color=F36A21&show_owner=true" alt="autobump" />
+  </a>
+  <a href="https://github.com/shivvx/open-vsx.org">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivvx&repo=open-vsx.org&theme=tokyonight&border_color=F36A21&title_color=F36A21&icon_color=F36A21&show_owner=true" alt="open-vsx.org" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack & Arsenal
 
-<p align="left">
-  <strong>📱 iOS & Apple Ecosystem</strong><br/>
+<div align="center">
+
+  <p><strong>📱 iOS & Apple Ecosystem</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,apple,xcode" alt="iOS Stack" />
   </a>
-</p>
 
-<p align="left">
-  <strong>🧠 AI, Data Science & Backend Infrastructure</strong><br/>
+  <br/><br/>
+
+  <p><strong>🧠 AI, Data Science & Backend Infrastructure</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,nodejs,express,postgres,docker,azure,gcp,aws" alt="AI & Backend Stack" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,nodejs,express,postgres,docker,azure,gcp,aws" alt="AI & Backend Stack" />
   </a>
-</p>
 
-<p align="left">
-  <strong>💻 Frontend & Web Technologies</strong><br/>
+  <br/><br/>
+
+  <p><strong>💻 Modern Frontend & Web Technologies</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,wordpress" alt="Frontend Stack" />
   </a>
-</p>
 
-<p align="left">
-  <strong>🎨 Design Systems, UI/UX & Creative Tools</strong><br/>
+  <br/><br/>
+
+  <p><strong>🎨 Design Systems, UI/UX & Creative Tools</strong></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" alt="Design Stack" />
   </a>
-</p>
+
+</div>
 
 ---
 
@@ -167,19 +146,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivvx&theme=tokyonight&hide_border=true&sideLabels=F36A21&ring=F36A21&fire=F36A21" alt="GitHub Streak Stats" width="100%" />
 </p>
 
-### 👾 Activity & Contribution Animations
+### 👾 Contribution Matrix & Activity Stream
 <p align="center">
   <img src="pacman.svg" alt="Pacman Contribution Graph" width="100%" />
 </p>
 
 ---
 
-## ⚡ Real-Time Station & Vibe Check
+## ⚡ Real-Time Station & Telemetry
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current_Mode-Architecting_Liquid_SwiftUI_Apps-F36A21?style=for-the-badge&logo=apple&logoColor=white" alt="Mode" />
-  <img src="https://img.shields.io/badge/Audio_Stream-Lo--Fi_%26_Synthwave_Frequencies-7C3AED?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  <img src="https://img.shields.io/badge/Core_System-All_Engines_100%25_Operational-059669?style=for-the-badge&logo=gnubash&logoColor=white" alt="System" />
+  <img src="https://img.shields.io/badge/⚡_CURRENT_MODE-Architecting_Liquid_SwiftUI_Apps-F36A21?style=for-the-badge&logo=apple&logoColor=white" alt="Mode" />
+  <img src="https://img.shields.io/badge/🎧_AUDIO_STREAM-Lo--Fi_%26_Synthwave_Frequencies-7C3AED?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/🟢_CORE_SYSTEM-All_Engines_100%25_Operational-059669?style=for-the-badge&logo=gnubash&logoColor=white" alt="System" />
 </p>
 
 ---
@@ -188,25 +167,28 @@
 
 <p align="center">
   <a href="https://shivvx.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-shivvx.in-F36A21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-shivvx.in-F36A21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/shivvx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-in%2Fshivvx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-in%2Fshivvx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/shivvx" target="_blank">
-    <img src="https://img.shields.io/badge/X%2FTwitter-%40shivvx-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X%2FTWITTER-%40shivvx-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://discord.com/users/531444263884554241" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-shivvx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/DISCORD-shivvx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://instagram.com/shivvx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40shivvx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-%40shivvx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:support@shivvx.in">
-    <img src="https://img.shields.io/badge/Personal_Email-support%40shivvx.in-EA4335?style=for-the-badge&logo=icloud&logoColor=white" alt="Personal Email" />
+    <img src="https://img.shields.io/badge/PERSONAL_DESK-support%40shivvx.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
   </a>
   <a href="mailto:support@wiroxa.dev">
-    <img src="https://img.shields.io/badge/Org_Support-support%40wiroxa.dev-7C3AED?style=for-the-badge&logo=mailgun&logoColor=white" alt="Org Support" />
+    <img src="https://img.shields.io/badge/STUDIO_SUPPORT-support%40wiroxa.dev-7C3AED?style=for-the-badge&logo=mailgun&logoColor=white" alt="Org Support" />
   </a>
 </p>
 
