@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,F36A21&height=220&section=header&text=SHIVAM%20KUMAR%20(%40shivvx)&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20UI%2FUX%20Craftsman%20%E2%80%A2%20Founder%20%40%20Wiroxa%20Studio&descSize=16&descAlign=50&descAlignY=62" width="100%" alt="Shivam Kumar Animated Header" />
+  <a href="https://github.com/shivvx">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivvx/shivvx/main/dark_mode.svg">
+      <img alt="Shivam Kumar's Developer Terminal Blueprint" src="https://raw.githubusercontent.com/shivvx/shivvx/main/light_mode.svg" width="100%" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=F36A21&center=true&vCenter=true&width=900&lines=System.init(%22%40shivvx%22)%20%E2%9A%A1;Crafting+Native+iOS+SwiftUI+Apps+%F0%9F%93%B1;Building+Autonomous+AI+Systems+%26+Agents+%F0%9F%A5%9D;Designing+High-Impact+Product+Systems+%F0%9F%8E%A8;Founder+%26+Engineering+Lead+%40+Wiroxa+Studio+%F0%9F%9A%80" width="100%" alt="Typing Intro Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=800&color=F36A21&center=true&vCenter=true&width=900&lines=System.init(%22%40shivvx%22)%20%E2%9A%A1;Crafting+Native+iOS+%26+SwiftUI+Apps+%F0%9F%93%B1;Building+Autonomous+AI+Systems+%26+Agents+%F0%9F%A5%9D;Founder+%26+Lead+Engineer+%40+Wiroxa+Studio+%F0%9F%9A%80;Designing+120Hz+Fluid+Micro-Interactions+%E2%9C%A8" width="100%" alt="Typing Header" />
 </p>
 
 <p align="center">
@@ -118,13 +123,13 @@ struct DeveloperProfile {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/shivvx/contributiontool">GitCommitter</a></h3>
-      <p align="center"><b>API-Driven Commit Automation Engine</b><br/>
-      Seamless contribution history generator using pure GitHub REST API requests without local clones.</p>
+      <h3 align="center">🤖 <a href="https://github.com/shivvx/autobump">AutoBump</a></h3>
+      <p align="center"><b>Intelligent Version & Changelog Automator</b><br/>
+      Automated semantic version bumper, git tag manager, and changelog generator for modern repos.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
         <img src="https://img.shields.io/badge/Automation-F36A21?style=flat-square" alt="Automation" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -171,16 +176,15 @@ struct DeveloperProfile {
   </a>
 </p>
 
-
 ---
 
-## 📊 GitHub Analytics & Streak Dashboard
+## 📊 GitHub Analytics & Activity Dashboard
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivvx&theme=tokyonight&hide_border=true&sideLabels=F36A21&ring=F36A21&fire=F36A21" alt="GitHub Streak Stats" width="100%" />
 </p>
 
-### 👾 Pacman & Activity Contribution Animations
+### 👾 Pacman & Contribution Animation
 <p align="center">
   <img src="pacman.svg" alt="Pacman Contribution Graph" width="100%" />
 </p>
