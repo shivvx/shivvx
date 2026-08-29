@@ -13,13 +13,16 @@
 
 <p align="center">
   <a href="https://shivvx.in" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-shivvx.in-F36A21?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-shivvx.in-F36A21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://shivvx.in" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Studio-Wiroxa_Studio-111111?style=for-the-badge&logo=vercel&logoColor=F36A21" alt="Wiroxa Studio" />
+  <a href="https://wiroxa.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Studio-Wiroxa_Studio-111111?style=for-the-badge&logo=vercel&logoColor=F36A21" alt="Wiroxa Studio" />
   </a>
-  <a href="mailto:shivprv@icloud.com">
-    <img src="https://img.shields.io/badge/✉️_Email-shivprv@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:support@shivvx.in">
+    <img src="https://img.shields.io/badge/Email-support%40shivvx.in-EA4335?style=for-the-badge&logo=icloud&logoColor=white" alt="Personal Support" />
+  </a>
+  <a href="mailto:support@wiroxa.dev">
+    <img src="https://img.shields.io/badge/Org_Support-support%40wiroxa.dev-7C3AED?style=for-the-badge&logo=mailgun&logoColor=white" alt="Org Support" />
   </a>
   <a href="https://github.com/shivvx">
     <img src="https://komarev.com/ghpvc/?username=shivvx&label=PROFILE+VIEWS&color=F36A21&style=for-the-badge" alt="Profile Views" />
@@ -37,41 +40,21 @@
 ## 🏆 Core Achievements & Recognition
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_Achievement-iOS_Native_Architect-F36A21?style=for-the-badge&logo=swift&logoColor=white" alt="iOS Architect Badge" />
-  <img src="https://img.shields.io/badge/🥇_Specialist-AI_Multi--Agent_Systems-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI Specialist Badge" />
-  <img src="https://img.shields.io/badge/⚡_Founder-Wiroxa_Studio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Wiroxa Founder Badge" />
-  <img src="https://img.shields.io/badge/⭐_Craftsman-UI%2FUX_Design_Tokens-D90368?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Craftsman Badge" />
+  <img src="https://img.shields.io/badge/🏆_Architecture-iOS_Native_Architect-F36A21?style=for-the-badge&logo=swift&logoColor=white" alt="iOS Architect Badge" />
+  <img src="https://img.shields.io/badge/🥇_Intelligence-AI_Multi--Agent_Systems-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI Specialist Badge" />
+  <img src="https://img.shields.io/badge/⚡_Leadership-Founder_%40_Wiroxa_Studio-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Wiroxa Founder Badge" />
+  <img src="https://img.shields.io/badge/⭐_Aesthetics-UI%2FUX_Design_Tokens-D90368?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Craftsman Badge" />
 </p>
 
 ---
 
-## ⚡ Developer Blueprint & Environment
+## 🚀 Engineering Focus & Core Pillars
 
-```swift
-// 🔴 🟡 🟢 shivvx@wiroxa-studio: ~ (swift 6.0)
-
-struct DeveloperProfile {
-    let name     = "Shivam Kumar"
-    let handle   = "@shivvx"
-    let title    = "iOS Developer | AI/ML Engineer | UI/UX Designer"
-    let studio   = "Wiroxa Studio 🚀"
-    let location = "Jabalpur, Madhya Pradesh, India 🇮🇳"
-    let website  = "https://shivvx.in"
-    
-    var coreSuperpowers: [String] = [
-        "Native Swift & SwiftUI Architecture (120Hz liquid micro-interactions)",
-        "Artificial Intelligence & Multi-Agent Systems (PyTorch, Computer Vision, LLMs)",
-        "Framer-Grade UI/UX Design Systems & Token Frameworks (Figma, Apple HIG)",
-        "Developer Tooling & Custom VS Code Extensions (TypeScript, C++)"
-    ]
-}
-```
-
-- 🔭 **Currently Building**: **[nmll-concept](https://github.com/shivvx/nmll-concept)** — AI-native desktop ML/DL workspace with visual node designers and multi-agent AI assistants.
-- 📱 **iOS Craftsmanship**: Architecting fluid native **SwiftUI** apps with modular state management and zero-lag performance.
-- 💼 **Founder @ Wiroxa Studio**: Engineering full-stack digital products, custom developer extensions, and enterprise design systems.
-- 🧠 **AI/ML Focus**: Researching autonomous multi-agent networks, model fine-tuning, and intelligent code analysis tools.
-- 🎨 **Design Ethos**: Dark mode elegance, typography hierarchy, functional minimalism, and high-contrast glassmorphism aesthetics.
+- 📱 **Native iOS Craftsmanship**: Architecting zero-latency **SwiftUI** apps with modular state management, custom haptics, and fluid 120Hz micro-interactions.
+- 🧠 **Autonomous AI Systems**: Researching multi-agent architectures, model fine-tuning, automated code analysis, and local inference pipelines.
+- 💼 **Founder @ Wiroxa Studio**: Leading product engineering, developer productivity tools, and full-stack enterprise systems.
+- 🎨 **Framer-Grade UI/UX**: Dark mode minimalism, strict typographical hierarchy, and Apple Human Interface Guideline compliance.
+- 🛠️ **Developer Tooling**: Building high-performance VS Code extensions, automated CLI engines, and compiler integrations.
 
 ---
 
@@ -149,7 +132,7 @@ struct DeveloperProfile {
 ## 🛠️ Tech Stack & Arsenal
 
 <p align="left">
-  <strong>📱 iOS & Mobile Engineering</strong><br/>
+  <strong>📱 iOS & Apple Ecosystem</strong><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,apple,xcode" alt="iOS Stack" />
   </a>
@@ -163,14 +146,14 @@ struct DeveloperProfile {
 </p>
 
 <p align="left">
-  <strong>💻 Frontend & Web Ecosystem</strong><br/>
+  <strong>💻 Frontend & Web Technologies</strong><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,wordpress" alt="Frontend Stack" />
   </a>
 </p>
 
 <p align="left">
-  <strong>🎨 Design, UI/UX & Creative Tools</strong><br/>
+  <strong>🎨 Design Systems, UI/UX & Creative Tools</strong><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" alt="Design Stack" />
   </a>
@@ -178,15 +161,25 @@ struct DeveloperProfile {
 
 ---
 
-## 📊 GitHub Analytics & Activity Dashboard
+## 📊 Live GitHub Analytics & Activity Dashboard
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivvx&theme=tokyonight&hide_border=true&sideLabels=F36A21&ring=F36A21&fire=F36A21" alt="GitHub Streak Stats" width="100%" />
 </p>
 
-### 👾 Pacman & Contribution Animation
+### 👾 Activity & Contribution Animations
 <p align="center">
   <img src="pacman.svg" alt="Pacman Contribution Graph" width="100%" />
+</p>
+
+---
+
+## ⚡ Real-Time Station & Vibe Check
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current_Mode-Architecting_Liquid_SwiftUI_Apps-F36A21?style=for-the-badge&logo=apple&logoColor=white" alt="Mode" />
+  <img src="https://img.shields.io/badge/Audio_Stream-Lo--Fi_%26_Synthwave_Frequencies-7C3AED?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/Core_System-All_Engines_100%25_Operational-059669?style=for-the-badge&logo=gnubash&logoColor=white" alt="System" />
 </p>
 
 ---
@@ -195,22 +188,25 @@ struct DeveloperProfile {
 
 <p align="center">
   <a href="https://shivvx.in" target="_blank">
-    <img src="https://img.shields.io/badge/Website-shivvx.in-F36A21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-shivvx.in-F36A21?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/shivvx" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-in/shivvx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-in%2Fshivvx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/shivvx" target="_blank">
-    <img src="https://img.shields.io/badge/X/Twitter-@shivvx-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X%2FTwitter-%40shivvx-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://discord.com/users/531444263884554241" target="_blank">
     <img src="https://img.shields.io/badge/Discord-shivvx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://instagram.com/shivvx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@shivvx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%40shivvx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:shivprv@icloud.com">
-    <img src="https://img.shields.io/badge/Gmail-shivprv@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:support@shivvx.in">
+    <img src="https://img.shields.io/badge/Personal_Email-support%40shivvx.in-EA4335?style=for-the-badge&logo=icloud&logoColor=white" alt="Personal Email" />
+  </a>
+  <a href="mailto:support@wiroxa.dev">
+    <img src="https://img.shields.io/badge/Org_Support-support%40wiroxa.dev-7C3AED?style=for-the-badge&logo=mailgun&logoColor=white" alt="Org Support" />
   </a>
 </p>
 
@@ -221,9 +217,9 @@ struct DeveloperProfile {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F36A21,111111&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F36A21,111111&height=110&section=footer&text=DESIGNED%20FOR%20PERFECTION%20%E2%80%A2%20WIROXA%20STUDIO&fontSize=16&fontColor=ffffff&fontAlign=50&fontAlignY=70" width="100%" alt="Footer Wave" />
 </p>
 
 <p align="center">
-  <sub>© 2026 Shivam Kumar (@shivvx) • Wiroxa Studio • Built with precision, Swift logic, and pixel perfection.</sub>
+  <sub>⚡ Crafting digital excellence with Swift precision, neural agents & pixel perfection • © 2026 Shivam Kumar (@shivvx)</sub>
 </p>
